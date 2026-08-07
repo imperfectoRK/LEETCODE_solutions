@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0051-n-queens) |
+## Math
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1486-xor-operation-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
