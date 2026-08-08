@@ -23,10 +23,16 @@ public:
         long long val=0;
         while(idx<idr)
         {
-            val=val*10 +(s[idx]-'0');
-            if(val>INT_MAX && sign==1) return INT_MAX;
-            if(val>2147483648LL && sign==-1) return INT_MIN;
+
+            int digit = s[idx] - '0';
+            // Check overflow BEFORE multiplying
+            if (val > (INT_MAX - digit) / 10) {
+                return sign == 1 ? INT_MAX : INT_MIN;
+            }
+
+            val = val * 10 + digit;
             idx++;
+        
         }
         if(sign==-1) return -1*val;
         return val;
