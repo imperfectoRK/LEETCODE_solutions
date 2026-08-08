@@ -6,6 +6,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0074-search-a-2d-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
@@ -33,8 +34,13 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0037-sudoku-solver) |
+| [0074-search-a-2d-matrix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0074-search-a-2d-matrix) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0037-sudoku-solver) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
