@@ -55,6 +55,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,14 +64,17 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -87,4 +91,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
