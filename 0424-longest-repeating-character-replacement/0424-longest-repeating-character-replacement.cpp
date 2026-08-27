@@ -9,7 +9,7 @@ public:
             freq[s[right] - 'A']++;
             mxcount = max(mxcount, freq[s[right] - 'A']);
 
-            while ((right - left + 1) - mxcount > k) {
+            if((right - left + 1) - mxcount > k) {
                 freq[s[left] - 'A']--, left++;
             }
             ans = max(ans, right - left + 1);
