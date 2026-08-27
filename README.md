@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0037-sudoku-solver) |
+| [0424-longest-repeating-character-replacement](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
 ## Two Pointers
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/1392-longest-happy-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/imperfectoRK/LEETCODE_solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
